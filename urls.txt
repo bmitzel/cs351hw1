@@ -1,0 +1,2 @@
+http://releases.ubuntu.com/11.10/ubuntu-11.10-desktop-i386.iso
+http://releases.ubuntu.com/13.04/ubuntu-13.04-desktop-i386.iso
