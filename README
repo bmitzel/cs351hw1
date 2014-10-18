@@ -1,0 +1,21 @@
+Name: Brian Mitzel
+Email: bmitzel@csu.fullerton.edu
+Language: C
+
+Running:
+	./serial
+	./parallel
+	./multi-search <filename> <key> <number>
+		filename: the operating system name of the file to search
+		key:      the string to search for
+		number:   the number of child processes to execute the search
+		
+Execution Times:
+	serial:   97m28.056s
+	parallel: 42m3.816s
+	
+Extra Credit:
+	Fully implemented
+	
+Other Notes:
+	None
