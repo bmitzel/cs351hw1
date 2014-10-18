@@ -2,6 +2,11 @@ Name: Brian Mitzel
 Email: bmitzel@csu.fullerton.edu
 Language: C
 
+Compiling:
+	g++ serial.c -o serial
+	g++ parallel.c -o parallel
+	g++ multi-search.c -o multi-search
+
 Running:
 	./serial
 	./parallel
